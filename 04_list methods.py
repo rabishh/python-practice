@@ -1,0 +1,22 @@
+# 01 list.sort (this can arrange the list in increasing order )
+a = [1,2,3,4,5,87,89,98]
+# print(a)
+a.sort()
+print(a)
+# 02 list.reverse(this can reverse the list )
+a.reverse()
+print(a)
+# 03 list.append(by this we can add at the end of the list)
+a.append(78)
+print(a)
+# 04 list.insert
+a.insert(4,65) #(by this we can insert 65 index 4)
+print(a)
+# 05 list.pop(by this we remove at defined index )
+a.pop(6)
+# a.sort()
+print(a)
+# 06 list.remove(by this method we can remove the component)
+a.remove(65)
+print(a)
+
